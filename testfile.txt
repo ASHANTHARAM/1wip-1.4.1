@@ -1,1 +1,2 @@
 hi, this is the practice on github learning session 
+Going to perform the git fetch directly on the master branch 
