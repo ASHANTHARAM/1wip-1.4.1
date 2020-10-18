@@ -1,3 +1,4 @@
 hi, this is the practice on github learning session 
 Going to perform the git fetch directly on the master branch 
 finally going to perform
+Change made on both the branches and master branch in file1.txt file has been added by some comments
