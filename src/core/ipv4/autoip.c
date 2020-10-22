@@ -59,7 +59,7 @@
  * With DHCP:
  * - define LWIP_DHCP_AUTOIP_COOP 1 in your lwipopts.h.
  * - Configure your DHCP Client.
- *
+ *  Internet Protocol is working by using UDP
  */
 
 #include "lwip/opt.h"
