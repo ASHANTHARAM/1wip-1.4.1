@@ -1,7 +1,7 @@
 /**
  * @file
- * AutoIP Automatic LinkLocal IP Configuration
- *
+ * AutoIP Automatic LinkLocal IP Configuration ok
+ * Author : Anand Kumar 
  */
 
 /*
